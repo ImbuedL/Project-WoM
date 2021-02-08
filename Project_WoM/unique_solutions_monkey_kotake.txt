@@ -1,0 +1,1541 @@
+Number of Solutions: 48
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x419cf0, Pointer Address=0x41a2c0)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Snapper (Priority 1)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 1) allocated at: 0x41a2c0
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x41a380, Pointer Address=0x41a950)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 5
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- SUPERSLIDE STEP:
+Superslide WITHOUT Bomb OR Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 1) allocated at: 0x41a950
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x41a380, Pointer Address=0x41a950)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 2)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 2)
+----- SUPERSLIDE STEP:
+Superslide WITHOUT Bomb OR Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 1) allocated at: 0x41a950
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x41a4c0, Pointer Address=0x41aa90)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Charged Spin Attack (with magic)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 5
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- SUPERSLIDE STEP:
+Superslide WITHOUT Bomb OR Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 2) allocated at: 0x41aa90
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x41a440, Pointer Address=0x41aa10)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 2)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 1) allocated at: 0x41aa10
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x41a420, Pointer Address=0x41a9f0)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 2)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 2)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 1) allocated at: 0x41a9f0
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x41a440, Pointer Address=0x41aa10)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 5
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- SUPERSLIDE STEP:
+Superslide WITHOUT Bomb OR Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 1) allocated at: 0x41aa10
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x41a440, Pointer Address=0x41aa10)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Hookshot
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 2)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 1) allocated at: 0x41aa10
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x41a440, Pointer Address=0x41aa10)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Hookshot
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 2)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 1) allocated at: 0x41aa10
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x419cf0, Pointer Address=0x41a2c0)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Snapper (Priority 1)
+    Deallocate: Grass (Priority 2)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 1) allocated at: 0x41a2c0
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x41a140, Pointer Address=0x41a710)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Snapper (Priority 1)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 1) allocated at: 0x41a710
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x415f50, Pointer Address=0x416520)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Bomb
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Snapper (Priority 1)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 2 off of: 0090 [Grass] (Priority 1) allocated at: 0x416520
+Load Room 1
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x41a410, Pointer Address=0x41a9e0)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 2)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Charged Spin Attack (with magic)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 5
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- SUPERSLIDE STEP:
+Superslide WITHOUT Bomb OR Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 2) allocated at: 0x41a9e0
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x41a140, Pointer Address=0x41a710)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Snapper (Priority 1)
+    Deallocate: Grass (Priority 2)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 1) allocated at: 0x41a710
+Load Room 5
+Load Room 2
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x419f30, Pointer Address=0x41a500)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Snapper (Priority 1)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 1) allocated at: 0x41a500
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x415f50, Pointer Address=0x416520)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Snapper (Priority 1)
+    Deallocate: Grass (Priority 2)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 2 off of: 0090 [Grass] (Priority 1) allocated at: 0x416520
+Load Room 1
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x41a3c0, Pointer Address=0x41a990)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 5
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 1) allocated at: 0x41a990
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x41a540, Pointer Address=0x41ab10)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Charged Spin Attack (with magic)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 2) allocated at: 0x41ab10
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x41a540, Pointer Address=0x41ab10)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Charged Spin Attack (with magic)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 2) allocated at: 0x41ab10
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x41a540, Pointer Address=0x41ab10)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Charged Spin Attack (with magic)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- SUPERSLIDE STEP:
+Superslide WITHOUT Bomb OR Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 2) allocated at: 0x41ab10
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x41a3a0, Pointer Address=0x41a970)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 2)
+----- SUPERSLIDE STEP:
+Superslide WITHOUT Bomb OR Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 1) allocated at: 0x41a970
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x41a490, Pointer Address=0x41aa60)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 5
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- SUPERSLIDE STEP:
+Superslide WITHOUT Bomb OR Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 2) allocated at: 0x41aa60
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x4136b0, Pointer Address=0x413c80)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+Load Room 2
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Snapper (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Charged Spin Attack (with magic)
+Load Room 8
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 5)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 5 off of: 0090 [Grass] (Priority 1) allocated at: 0x413c80
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x411570, Pointer Address=0x411b40)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 2
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Charged Spin Attack (with magic)
+Load Room 1
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 2 off of: 0090 [Grass] (Priority 1) allocated at: 0x411b40
+Load Room 1
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x41a490, Pointer Address=0x41aa60)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Hookshot
+Load Room 5
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 2) allocated at: 0x41aa60
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x416030, Pointer Address=0x416600)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 1 off of: 0090 [Grass] (Priority 1) allocated at: 0x416600
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x41a490, Pointer Address=0x41aa60)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 5
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- SUPERSLIDE STEP:
+Superslide WITHOUT Bomb OR Smoke loaded into Room 8 off of: 0090 [Grass] (Priority 2) allocated at: 0x41aa60
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x416030, Pointer Address=0x416600)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+Load Room 5
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 1 off of: 0090 [Grass] (Priority 1) allocated at: 0x416600
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x418460, Pointer Address=0x418a30)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Charged Spin Attack (with magic)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Hookshot
+Load Room 5
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 8
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 3)
+    Deallocate: Grass (Priority 4)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 5 off of: 0090 [Grass] (Priority 2) allocated at: 0x418a30
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x4120f0, Pointer Address=0x4126c0)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Hookshot
+Load Room 2
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 5
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 8
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 5 off of: 0090 [Grass] (Priority 2) allocated at: 0x4126c0
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x417320, Pointer Address=0x4178f0)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Charged Spin Attack (with magic)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Bomb
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Snapper (Priority 1)
+    Deallocate: Grass (Priority 2)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 8
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 3)
+    Deallocate: Grass (Priority 4)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 7 off of: 0090 [Grass] (Priority 2) allocated at: 0x4178f0
+Load Room 8
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x412320, Pointer Address=0x4128f0)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Snapper (Priority 1)
+    Deallocate: Grass (Priority 2)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 1 off of: 0090 [Grass] (Priority 1) allocated at: 0x4128f0
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x4123b0, Pointer Address=0x412980)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 2
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Bomb
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Snapper (Priority 1)
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 8
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 5 off of: 0090 [Grass] (Priority 2) allocated at: 0x412980
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x413440, Pointer Address=0x413a10)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Hookshot
+Load Room 2
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Charged Spin Attack (with magic)
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Snapper (Priority 1)
+    Deallocate: Grass (Priority 2)
+----- ALLOCATION STEP:
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Charged Spin Attack (with magic)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 5 off of: 0090 [Grass] (Priority 1) allocated at: 0x413a10
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x4182c0, Pointer Address=0x418890)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Charged Spin Attack (with magic)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 5
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Charged Spin Attack (with magic)
+Load Room 8
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 4)
+    Deallocate: Grass (Priority 5)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 5 off of: 0090 [Grass] (Priority 3) allocated at: 0x418890
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x4122b0, Pointer Address=0x412880)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 2
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 1 off of: 0090 [Grass] (Priority 1) allocated at: 0x412880
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x4135a0, Pointer Address=0x413b70)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Charged Spin Attack (with magic)
+Load Room 2
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Charged Spin Attack (with magic)
+Load Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 2)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Charged Spin Attack (with magic)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 5 off of: 0090 [Grass] (Priority 1) allocated at: 0x413b70
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x413660, Pointer Address=0x413c30)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Hookshot
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Charged Spin Attack (with magic)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 5 off of: 0090 [Grass] (Priority 1) allocated at: 0x413c30
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x4123b0, Pointer Address=0x412980)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Hookshot
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Charged Spin Attack (with magic)
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Snapper (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 8
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 2)
+    Deallocate: Grass (Priority 3)
+    Deallocate: Grass (Priority 4)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 7 off of: 0090 [Grass] (Priority 1) allocated at: 0x412980
+Load Room 8
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x4157f0, Pointer Address=0x415dc0)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Charged Spin Attack (with magic)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 5 off of: 0090 [Grass] (Priority 1) allocated at: 0x415dc0
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x412420, Pointer Address=0x4129f0)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Snapper (Priority 1)
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 8
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 7 off of: 0090 [Grass] (Priority 5) allocated at: 0x4129f0
+Load Room 8
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x412250, Pointer Address=0x412820)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Charged Spin Attack (with magic)
+Load Room 2
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Charged Spin Attack (with magic)
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Snapper (Priority 1)
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 8
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 3)
+    Deallocate: Grass (Priority 4)
+    Deallocate: Grass (Priority 5)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 5 off of: 0090 [Grass] (Priority 2) allocated at: 0x412820
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x412250, Pointer Address=0x412820)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+----- ALLOCATION STEP:
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Charged Spin Attack (with magic)
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 8
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 3)
+    Deallocate: Grass (Priority 5)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 5 off of: 0090 [Grass] (Priority 2) allocated at: 0x412820
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x4127a0, Pointer Address=0x412d70)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Charged Spin Attack (with magic)
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 8
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 2)
+    Deallocate: Grass (Priority 4)
+    Deallocate: Grass (Priority 5)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 7 off of: 0090 [Grass] (Priority 1) allocated at: 0x412d70
+Load Room 8
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x412a60, Pointer Address=0x413030)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Hookshot
+Load Room 2
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Snapper (Priority 1)
+    Deallocate: Grass (Priority 2)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+Load Room 8
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+    Deallocate: Grass (Priority 4)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 7 off of: 0090 [Grass] (Priority 5) allocated at: 0x413030
+Load Room 8
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x413700, Pointer Address=0x413cd0)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 2)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Hookshot
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Snapper (Priority 1)
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Charged Spin Attack (with magic)
+Load Room 8
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 4)
+    Deallocate: Grass (Priority 5)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 7 off of: 0090 [Grass] (Priority 3) allocated at: 0x413cd0
+Load Room 8
+Load Room 5
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x4126b0, Pointer Address=0x412c80)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+    Deallocate: Grass (Priority 2)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 2
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Charged Spin Attack (with magic)
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Snapper (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 8
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 5)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 5 off of: 0090 [Grass] (Priority 2) allocated at: 0x412c80
+Load Room 2
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+SOLUTION: (Grotto Overlay Address=0x416440, Pointer Address=0x416a10)
+Load Scene from Room 1
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 2)
+    Deallocate: Grass (Priority 3)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Charged Spin Attack (with magic)
+Load Room 2
+----- DEALLOCATION STEP:
+    (Nothing in Deallocation Step)
+----- ALLOCATION STEP:
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Charged Spin Attack (with magic)
+Load Room 5
+----- DEALLOCATION STEP:
+    Deallocate: Snapper (Priority 1)
+    Deallocate: Grass (Priority 1)
+----- ALLOCATION STEP:
+    Allocate: Smoke (let Bomb deallocate)
+    Allocate: Arrow
+    Allocate: Arrow
+    Allocate: Bomb
+    Allocate: Bomb
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Zora Fins (2 Zora Fins)
+    Allocate: Hookshot
+Load Room 8
+----- DEALLOCATION STEP:
+    Deallocate: Grass (Priority 4)
+    Deallocate: Grass (Priority 5)
+----- SUPERSLIDE STEP:
+Superslide with only Smoke loaded into Room 5 off of: 0090 [Grass] (Priority 2) allocated at: 0x416a10
+Load Room 2
+
